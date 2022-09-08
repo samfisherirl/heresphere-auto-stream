@@ -2,7 +2,7 @@
 
 have heresphere open with the url bar selected, and have it cleared.
 
-open up eproner.com 
+open up eporner.com 
 
 go to your favorite video, and make sure you hit login. 
 
