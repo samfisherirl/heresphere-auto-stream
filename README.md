@@ -1,6 +1,6 @@
 # heresphere-auto-stream
 
-download https://github.com/samfisherirl/heresphere-auto-stream/releases/tag/v0.5
+download https://github.com/samfisherirl/heresphere-auto-stream/releases/
 
 have heresphere open with the url bar selected, and have it cleared.
 
